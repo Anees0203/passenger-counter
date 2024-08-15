@@ -1,2 +1,2 @@
-# passenger-counter
-passenger counter using html, css and javascript
+# row-counter
+row counter using html, css and javascript
